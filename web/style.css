@@ -1,0 +1,55 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : २५ नवंबर, २०१३, ९:३५:०७ अपराह्न
+    Author     : saipavan
+*/
+
+body{
+    font-family: Arial;
+}
+
+.img_container{
+    position: absolute;
+    top: 23%;
+    left: 50%;
+    margin-left: -570px;
+    margin-top: -150px;
+}
+
+.links_container{
+    position: absolute;
+    top: 50%;
+    margin-left: 340px;
+}
+
+.links{
+     margin-right: 100px;
+}
+
+.data_container{
+    position: absolute;
+    top: 60%;
+    margin-left: 160px;
+    margin-right: 160px;
+}
+
+.form_container{
+    position: absolute;
+    top: 65%;   
+    left: 40%;
+}
+
+.image_container{
+    position: absolute;
+    top: 70%;
+    left: 30%;
+}
+
+  a{text-decoration: none};
+  a:link {color:#0000ee;}    /* unvisited link */
+  a:visited{color: #0000ee;}
+  a:hover {color:#ee0000;} 
